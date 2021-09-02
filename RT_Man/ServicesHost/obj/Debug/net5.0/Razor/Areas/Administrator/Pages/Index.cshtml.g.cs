@@ -19,8 +19,15 @@ using ServicesHost;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "E:\Repair Tools Man\RT_Man\ServicesHost\Areas\Administrator\Pages\_ViewImports.cshtml"
+using RepairToolsMan.Application.Contracts.EquipmentCategory;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ef0541ef3efe0586dabe803699591e59b27338fd", @"/Areas/Administrator/Pages/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9ea280d345799f45f10a1d5d462da033cb5c9872", @"/Areas/Administrator/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"59fc6181c749c6500355b18d88b8f9536acbf36f", @"/Areas/Administrator/Pages/_ViewImports.cshtml")]
     public class Areas_Administrator_Pages_Index : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("name", new global::Microsoft.AspNetCore.Html.HtmlString("todo-form"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -456,7 +463,7 @@ using ServicesHost;
                 <ul class=""list-group no-margn nicescroll todo-list"" style=""max-height: 288px;"" id=""todo-list""></ul>
 
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef0541ef3efe0586dabe803699591e59b27338fd24221", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef0541ef3efe0586dabe803699591e59b27338fd24450", async() => {
                 WriteLiteral(@"
                     <div class=""row"">
                         <div class=""col-sm-9 todo-inputbar"">

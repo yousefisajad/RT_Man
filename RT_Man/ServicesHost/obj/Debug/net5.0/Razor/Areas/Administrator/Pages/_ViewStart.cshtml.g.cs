@@ -19,8 +19,15 @@ using ServicesHost;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "E:\Repair Tools Man\RT_Man\ServicesHost\Areas\Administrator\Pages\_ViewImports.cshtml"
+using RepairToolsMan.Application.Contracts.EquipmentCategory;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2d47ab5c93609c2e85a602b37aa9393d9e3d1829", @"/Areas/Administrator/Pages/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9ea280d345799f45f10a1d5d462da033cb5c9872", @"/Areas/Administrator/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"59fc6181c749c6500355b18d88b8f9536acbf36f", @"/Areas/Administrator/Pages/_ViewImports.cshtml")]
     public class Areas_Administrator_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
