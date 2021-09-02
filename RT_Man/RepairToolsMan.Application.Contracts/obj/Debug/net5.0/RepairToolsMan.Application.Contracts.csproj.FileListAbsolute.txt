@@ -1,0 +1,15 @@
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\bin\Debug\net5.0\RepairToolsMan.Application.Contracts.deps.json
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\bin\Debug\net5.0\RepairToolsMan.Application.Contracts.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\bin\Debug\net5.0\ref\RepairToolsMan.Application.Contracts.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\bin\Debug\net5.0\RepairToolsMan.Application.Contracts.pdb
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\bin\Debug\net5.0\FerameworkGeneral.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\bin\Debug\net5.0\FerameworkGeneral.pdb
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.csproj.AssemblyReference.cache
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.AssemblyInfoInputs.cache
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.AssemblyInfo.cs
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.csproj.CopyComplete
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\ref\RepairToolsMan.Application.Contracts.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Application.Contracts\obj\Debug\net5.0\RepairToolsMan.Application.Contracts.pdb

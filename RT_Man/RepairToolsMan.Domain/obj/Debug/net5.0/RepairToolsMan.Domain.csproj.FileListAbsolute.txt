@@ -1,0 +1,15 @@
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\bin\Debug\net5.0\RepairToolsMan.Domain.deps.json
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\bin\Debug\net5.0\RepairToolsMan.Domain.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\bin\Debug\net5.0\ref\RepairToolsMan.Domain.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\bin\Debug\net5.0\RepairToolsMan.Domain.pdb
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\bin\Debug\net5.0\FerameworkGeneral.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\bin\Debug\net5.0\FerameworkGeneral.pdb
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.csproj.AssemblyReference.cache
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.AssemblyInfoInputs.cache
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.AssemblyInfo.cs
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.csproj.CoreCompileInputs.cache
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.csproj.CopyComplete
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\ref\RepairToolsMan.Domain.dll
+E:\Repair Tools Man\RT_Man\RepairToolsMan.Domain\obj\Debug\net5.0\RepairToolsMan.Domain.pdb

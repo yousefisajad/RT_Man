@@ -1,0 +1,12 @@
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\bin\Debug\net5.0\FerameworkGeneral.deps.json
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\bin\Debug\net5.0\FerameworkGeneral.dll
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\bin\Debug\net5.0\ref\FerameworkGeneral.dll
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\bin\Debug\net5.0\FerameworkGeneral.pdb
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\FerameworkGeneral.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\FerameworkGeneral.AssemblyInfoInputs.cache
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\FerameworkGeneral.AssemblyInfo.cs
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\FerameworkGeneral.csproj.CoreCompileInputs.cache
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\FerameworkGeneral.dll
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\ref\FerameworkGeneral.dll
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\FerameworkGeneral.pdb
+E:\Repair Tools Man\RT_Man\FerameworkGeneral\obj\Debug\net5.0\FerameworkGeneral.csproj.AssemblyReference.cache
