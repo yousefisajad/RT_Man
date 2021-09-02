@@ -14,9 +14,11 @@ namespace RepairToolsMan.Management.Infrastructure.EfCore.EquipmentCategoryAgg.C
             builder.Property(c=>c.Picture).HasMaxLength(1000);
             builder.Property(c=>c.PictureAlt).HasMaxLength(255);
             builder.Property(c=>c.PictureTitle).HasMaxLength(500);
-            builder.Property(c=>c.KeyWord).HasMaxLength(80).IsRequired();
+            builder.Property(c=>c.KeyWords).HasMaxLength(80).IsRequired();
             builder.Property(c=>c.MetaDescription).HasMaxLength(150).IsRequired();
             builder.Property(c=>c.Slug).HasMaxLength(300).IsRequired();
+            builder.HasMany(c => c.Equipments).WithOne(c => c.EquipmentCategory)
+              .HasForeignKey(c => c.CategoryId);
 
         }
     }

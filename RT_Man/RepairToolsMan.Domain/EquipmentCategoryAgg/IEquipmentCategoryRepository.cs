@@ -8,7 +8,6 @@ namespace RepairToolsMan.Domain.EquipmentCategoryAgg
     public interface IEquipmentCategoryRepository:IRepository<long,EquipmentCategory>
     {
  
-        EquipmentCategory GetDetails(long Id);
         List <EquipmentCategory>Search(Expression<Func<EquipmentCategory, bool>> expression);
     }
 }

@@ -1,5 +1,6 @@
 ﻿using _0_Framework.Application;
 using FerameworkGeneral.Application;
+using FerameworkGeneral.Application.Validations;
 using RepairToolsMan.Application.Contracts.EquipmentCategory;
 using RepairToolsMan.Domain.EquipmentCategoryAgg;
 using System.Collections.Generic;
@@ -21,14 +22,14 @@ namespace RepairToolsMan.Application.EquipmentCategory
             var operationResil = new OperationResult();
             if (_equipmentCategoryRepository.Exists(c => c.Name == command.Name))
             {
-                return operationResil.Fail("امکان ثبت رکورد تکراری وجود ندارد، لطفا مجدد تلاش کنید.");
+                return operationResil.Fail(ApplicationMessages.DuplicatedRecord);
 
             }
 
             var equipmentCategory = new Domain.EquipmentCategoryAgg.EquipmentCategory();
             var slug = command.Slug.Slugify();
             equipmentCategory.SetDescription(command.Description).
-                SetKeyWord(command.KeyWord).SetmetaDescription(command.Description)
+                SetKeyWord(command.KeyWord).SetMetaDescription(command.Description)
                 .SetName(command.Name).SetPicture(command.Picture)
                 .SetPictureAlt(command.PictureAlt).SetPictureTitle(command.PictureTitle)
                 .SetSlug(slug);
@@ -46,17 +47,17 @@ namespace RepairToolsMan.Application.EquipmentCategory
 
             if (eqCategory == null)
             {
-                return operationResil.Fail("رکوردی با اطلاعات دریافتی یافت نشد، لطفا مجدد تلاش کنید.");
+                return operationResil.Fail(ApplicationMessages.RecordNotFound);
             }
 
             if (_equipmentCategoryRepository.Exists(c => c.Name == command.Name && c.Id != command.Id))
             {
-                return operationResil.Fail("امکان ثبت رکورد تکراری وجود ندارد، لطفا مجدد تلاش کنید.");
+                return operationResil.Fail(ApplicationMessages.DuplicatedRecord);
             }
 
             var slug = command.Slug.Slugify();
             eqCategory.SetDescription(command.Description).
-                           SetKeyWord(command.KeyWord).SetmetaDescription(command.Description)
+                           SetKeyWord(command.KeyWord).SetMetaDescription(command.Description)
                            .SetName(command.Name).SetPicture(command.Picture)
                            .SetPictureAlt(command.PictureAlt).SetPictureTitle(command.PictureTitle)
                            .SetSlug(slug);
@@ -67,7 +68,7 @@ namespace RepairToolsMan.Application.EquipmentCategory
 
         public EditEquipmentCategory GetDetails(long id)
         {
-            var eqCat = _equipmentCategoryRepository.GetDetails(id);
+            var eqCat = _equipmentCategoryRepository.Get(id);
             if (eqCat == null)
             {
                 return null;
@@ -75,7 +76,7 @@ namespace RepairToolsMan.Application.EquipmentCategory
             var editEqCat = new EditEquipmentCategory()
             {
                 Description = eqCat.Description,
-                KeyWord = eqCat.KeyWord,
+                KeyWord = eqCat.KeyWords,
                 MetaDescription = eqCat.MetaDescription,
                 Name = eqCat.Name,
                 Id = eqCat.Id,

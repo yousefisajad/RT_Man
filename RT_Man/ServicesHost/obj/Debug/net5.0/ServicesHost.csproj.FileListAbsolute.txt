@@ -164,3 +164,6 @@ E:\Repair Tools Man\RT_Man\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administrat
 E:\Repair Tools Man\RT_Man\ServicesHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\Repair Tools Man\RT_Man\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Repair\EquipmentCategory\Create.cshtml.g.cs
 E:\Repair Tools Man\RT_Man\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Repair\EquipmentCategory\Edit.cshtml.g.cs
+E:\Repair Tools Man\RT_Man\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Repair\Equipment\Create.cshtml.g.cs
+E:\Repair Tools Man\RT_Man\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Repair\Equipment\Edit.cshtml.g.cs
+E:\Repair Tools Man\RT_Man\ServicesHost\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Repair\Equipment\Index.cshtml.g.cs
